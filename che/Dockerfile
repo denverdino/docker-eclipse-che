@@ -1,0 +1,2 @@
+FROM codenvy/che
+
